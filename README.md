@@ -15,8 +15,10 @@ pip install -r requirements.txt
 
 ## Usage
 
+```
 from random_image import generate_image
 generate_image('Image.png')
+```
 
 ## Author
 Pedro-Grajau
